@@ -32,5 +32,3 @@ fields:
 - type: text
   name: featuredImage
   label: featuredImage
-pages:
-- "./content/content/posts/made-with-forestry.md"
